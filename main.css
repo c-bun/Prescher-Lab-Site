@@ -1,0 +1,162 @@
+/* TODO: Add mobile-responsive nav bar so that 'support' button does not go on to next line
+.nav {
+    
+}
+*/
+@media only screen and (max-width: 400px) {
+    .nav {
+        font-size: .65em;
+    }
+    .nav-pills {
+    }
+}
+
+.front-jumbo {
+    position: relative;
+    height: 500px;
+}
+
+.jumbotron {
+    background-image: url('images/flies.jpg');
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.inner-jumbo .jumbotron {
+    background-image: url('images/fliesCrop.jpg');
+    height: 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.inner-jumbo .jumbotron .container {
+    position: relative;
+    bottom: 45px;
+}
+
+.front-jumbo .jumbotron .container {
+    position: relative;
+    top: 100px;
+}
+
+.jumbotron h1 {
+    color: #fff;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.jumbotron p {
+    font-size: 20px;
+    color: #fff;
+}
+
+.blog-body {
+    margin-left: 20px;
+}
+
+
+/*
+.neighborhood-guides {
+  background-color: #efefef;
+  border-bottom: 1px solid #dbdbdb;
+}
+.neighborhood-guides h2 {
+    color: #393c3d;
+    font-size: 24px;
+}
+.neighborhood-guides p {
+    margin-bottom: 13px;
+    font-size: 15px;
+}
+
+
+.learn-more a {
+  color: #00b0ff;
+}
+*/
+
+.TOC-container {
+    padding-top: 15px;
+    padding-bottom: 10px;
+    padding-right: 50px;
+}
+
+.TOC-container img {
+    padding-top: 15px;
+}
+
+.TOCless-container {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-right: 50px;
+}
+
+.blog-post-title {
+    font-size: 18px;
+}
+
+.group-divider {
+    border-width: 3px;
+}
+
+.opening-statement {
+    font-size: 22px;
+}
+
+.footer {
+    height: 75px;
+}
+
+.footer-line {
+    position: relative;
+    top: 35px;
+}
+.group-prof{
+    min-height: 150px;
+    padding-bottom: 10px;
+}
+.group-prof h5{
+    padding-left: 150px;
+}
+
+.group-prof h3{
+    padding-left: 150px;
+}
+
+.group-prof img{
+    position: relative;
+    top: 15px;   
+}
+
+.jenn-prof h5{
+    padding-left: 210px;
+}
+
+.jenn-prof h3{
+    padding-left: 210px;
+}
+
+#jenn-bio {
+    padding-top: 5px;
+}
+
+.area-heading {
+    font-size: 1.6em;
+}
+
+.lead {
+    font-size: 1.1em;
+}
+
+.lead span {
+    font-size: 1.3em;
+}
+
+.area{
+    background-color: white;
+}
+
+#ACS-alert{
+    margin-bottom: 0em;
+}

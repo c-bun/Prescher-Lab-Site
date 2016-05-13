@@ -1,0 +1,75 @@
+#bottom1 {
+    position: absolute;
+    z-index: -1;
+    background-image: url('images/jellies.jpg');
+}
+
+#bottom2 {
+    position: absolute;
+    z-index: -1;
+    background-image: url('images/toxo.jpg');
+}
+
+#top {
+    position: absolute;
+    -webkit-transition: opacity 1s ease-in-out;
+    -moz-transition: opacity 1s ease-in-out;
+    -o-transition: opacity 1s ease-in-out;
+    transition: opacity 1s ease-in-out;
+}
+
+
+/*
+#top:hover {
+  opacity:0;
+}
+
+@keyframes cf3FadeInOut {
+  0% {
+  opacity:1;
+}
+45% {
+opacity:1;
+}
+55% {
+opacity:0;
+}
+100% {
+opacity:0;
+}
+}
+*/
+
+#top {
+    animation-name: cf4FadeInOut;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+    animation-duration: 10s;
+    animation-direction: alternate;
+}
+
+@keyframes cf4FadeInOut {
+    0% {
+        opacity: 1;
+    }
+    17% {
+        opacity: 1;
+    }
+    25% {
+        opacity: 0;
+    }
+    92% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+#bottom1:nth-of-type(1) {
+    animation-delay: 6s;
+}
+
+#bottom2:nth-of-type(2) {
+    animation-delay: 4s;
+}
