@@ -1,13 +1,42 @@
-<!DOCTYPE HTML>
- 
-<meta charset="UTF-8">
-<meta http-equiv="refresh" content="1; url=home.html">
- 
-<script>
-  window.location.href = "home.html"
-</script>
- 
-<title>Page Redirection</title>
- 
-<!-- Note: don't tell people to `click` the link, just tell them that it is a link. -->
-If you are not redirected automatically, follow the <a href='home.html'>link to The Prescher Lab Website.</a>
+---
+layout: default
+title: The Prescher Lab
+nav_order: 1 
+---
+    <div class="front-jumbo">
+        <div class="jumbotron" id="top">
+            <div class="container">
+                <h1>The Prescher Lab</h1>
+                <p>Expanding the imaging toolkit to spy on cellular communication</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="container mission-statement">
+        <hr>
+        <p>
+            <span class="opening-statement">Our research team is crafting novel probes to "spy" on cells and decipher their communications <em>in vivo</em>. </span>Cellular networks drive diverse aspects of human biology, ranging from immune function to memory formation. Breakdowns in these networks also underlie numerous pathologies. While cell-cell interactions play key roles in human health and disease, the mechanisms by which cells transact information in vivo are not completely understood. The number of cells types involved, the timing and location of their interactions, the molecular cues exchanged, and the long-term fates of the cells remain poorly characterized in most cases. We are designing and deploying custom tools to visualize cellular networks in real time—and with molecular precision—in physiologically relevant environments. Collectively, our work is decoding cellular communications relevant to infectious disease, cancer metastases, and immune function.
+        </p>
+        <hr>
+    </div>
+
+    <div class="container blog-body">
+        <div class="blog-header">
+            <h1 class="blog-title">News and Events</h1>
+        </div>
+        <div class="row">
+
+            <div class="col-sm-8 blog-main">
+          		{% for post in site.posts limit:1 %}
+                <div class="blog-post">
+                    <!-- <h2 class="blog-post-title">{{ post.date | date: "%B %Y" }}</h2> -->
+                    <p>{{ post.content }}</p>
+                </div>
+                {% endfor %}
+            </div>
+            <!-- /.blog-main -->
+            {% include sidebar.html %}
+
+        </div>
+    </div>
+    <!-- /.container -->

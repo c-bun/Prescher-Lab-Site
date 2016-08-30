@@ -1,0 +1,5 @@
+---
+title: "Generating orthogonal bioluminescent probes for multicellular imaging in vivo."
+image_file_name: "fig1.png"
+---
+We are developing novel imaging tools to visualize immune surveillance mechanisms and host-microbe interactions. These processes involve multiple cell types and communication networks—features that have been historically difficult to image en masse. To capture such multicellular interactions, we are crafting designer bioluminescent probes. Our approach involves re-engineering luciferase enzymes, generating panels of mutants that accept chemically distinct luciferin analogs.  When the mutants and analogs are mixed together, light is produced only when complementary enzyme-substrate partners interact.  This strategy is providing a collection of bioluminescent probes suitable for visualizing multiple cell populations in vivo, analogous to the palette of fluorescent proteins available for multi-component labeling in vitro.

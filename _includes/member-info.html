@@ -1,0 +1,23 @@
+{% if current_column == 'col_one' %}{% capture current_column %}{% cycle 'col_one', 'col_two' %}{% endcapture %}{% endif %}
+{% for member in site.data.group %}
+    {% if member.position == group_position %}
+        {% if current_column == 'col_one' %}<div class="row">{% endif %}
+            <div class="col-sm-6 group-prof">
+                {% assign no_pic = true %}
+                {% capture fullname %}{{member.last}}_{{member.first}}{% endcapture %}
+                {% for file in site.static_files %}{% if file.path contains fullname %}
+                    <img class="img-circle pull-left" src="{{ file.path | prepend: site.baseurl}}" width="140" height="140">
+                    {% assign no_pic = false %}
+                {% endif %}{% endfor %}
+                {% if no_pic %}<img class="img-circle pull-left" src="{{'/images/group/placeholder.png' | prepend: site.baseurl}}" width="140" height="140">{% endif %}
+                <h3>{{ member.first }} {{ member.last }}</h3>
+                {% if member.hometown %}<h5><small>Hometown:</small> {{ member.hometown }}</h5>{% endif %}
+                <h5><small>Education:</small> {{ member.education }}</h5>
+                {% if member.hero %}<h5><small>Scientific Hero:</small> {{ member.hero }}</h5>{% endif %}
+                {% if member.awards %}<h5><small>Awards:</small> {{ member.awards }}</h5>{% endif %}
+                {% if member.current_position %}<h5 ><small>Current Position:</small> {{ member.current_position }}</h5>{% endif %}
+            </div>
+        {% if current_column == 'col_one' %}</div>{% endif %}
+        {% capture current_column %}{% cycle 'col_one', 'col_two' %}{% endcapture %}
+    {% endif %}
+{% endfor %}

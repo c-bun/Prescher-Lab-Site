@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+  {% include old_news_head.html %}
+
+  <body>
+
+    {% include header.html %}
+    <div class="inner-jumbo">
+        <div class="jumbotron">
+            <div class="container">
+                <h1>{{ page.title }}</h1>
+            </div>
+        </div>
+    </div>
+    
+      <div class="container blog-body">
+        <div class="row">
+
+            <div class="col-sm-8 blog-main">
+                <div class="blog-post">
+                    <!-- <h2 class="blog-post-title">{{ post.date | date: "%B %Y" }}</h2> -->
+                    <p>{{ content }}</p>
+                </div>
+            </div>
+            <!-- /.blog-main -->
+            {% include sidebar.html %}
+        </div>
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
+

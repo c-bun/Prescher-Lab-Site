@@ -1,0 +1,41 @@
+{% assign pages = site.pages | sort:"nav_order" %}
+
+<div class="header clearfix">
+    <nav>
+            <ul class="nav nav-pills pull-left">
+                <li role="presentation" {% if page.title == site.title %} class="active" {% endif %}>
+                    <a class="site-title" href="{{ site.baseurl }}/">Home</a>
+                </li>
+                
+            {% for my_page in pages %}
+                {% if my_page.title and my_page.title != site.title and my_page.navbar == "left" and my_page.dropdown == nil %}
+                
+                    <li role="presentation" {% if page.title == my_page.title %} class="active" {% endif %}>
+                    <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+                    </li>
+                {% endif %}
+            {% endfor %}
+                
+            <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">The Group <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        {% for my_page in pages %}
+                  {% if my_page.dropdown == "group" %}
+                        <li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
+                        {% endif %}
+                {% endfor %}
+                    </ul>
+            </li>
+                
+            </ul>
+            <ul class="nav nav-pills pull-right">
+                {% for my_page in pages %}
+          {% if my_page.title and my_page.navbar == "right" %}
+          <li role="presentation" {% if page.title == my_page.title %} class="active" {% endif %}>
+          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+          </li>
+          {% endif %}
+        {% endfor %}
+            </ul>
+        </nav>
+  </div>

@@ -1,213 +1,27 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-    <title>Prescher Lab - Alumni</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta charset="UTF-8">
-
-    <link rel="stylesheet" href="bootstrap.css">
-    <script src="jquery-1.12.1.min.js"></script>
-    <script src="bootstrap.js"></script>
-    <link rel="stylesheet" href="main.css">
-
-</head>
-
-<body>
-
-    <div class="header clearfix">
-        <nav>
-            <ul class="nav nav-pills pull-left">
-                <li role="presentation">
-                    <a href="home.html">Home</a>
-                </li>
-                <li role="presentation">
-                    <a href="research.html">Research</a>
-                </li>
-                <li role="presentation">
-                    <a href="publications.html">Publications</a>
-                </li>
-                <li class="dropdown active">
-                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">The Group <span class="caret"></span></a>
-                    <ul class="dropdown-menu">
-                        <li><a href="the-group.html">Current Group</a></li>
-                        <li><a href="alumni.html">Group Alumni</a></li>
-                        <li><a href="photos.html">Photos</a></li>
-                    </ul>
-                </li>
-            </ul>
-            <ul class="nav nav-pills pull-right">
-                <li role="presentation">
-                    <a href="support.html">Support</a>
-                </li>
-            </ul>
-        </nav>
-    </div>
-
-    <div class="inner-jumbo">
-        <div class="jumbotron">
-            <div class="container">
-                <h1>Prescher Lab Alumni</h1>
-            </div>
-        </div>
-    </div>
-
+---
+layout: inner_title
+title: Alumni
+navbar: left
+dropdown: group
+nav_order: 5
+---
 <div class="container"> <!--Start listings of alumni!-->
     <div class="col-sm-12">
         <h1 >Former Visiting Scholars and Postdocs</h1>
     </div>
-
+    {% assign group_position = "former_postdoc" %}
+        {% include member-info.html %}
     
-    
-    <div class="row">
-        <div class="col-sm-6 group-prof">
-                <img class="img-circle pull-left" src="images/group/aaron.jpg" width="140" height="140">
-                <h3>Aaron Leconte</h3>
-                <h5><small>Hometown:</small> Somewhere out east.</h5>
-                <h5><small>Education:</small> B.A., Chemistry, Carleton College</h5>
-                <h5>Ph.D., Chemical Biology, Scripps</h5>
-                <h5><small>Scientific Hero:</small> Chuck Carlin</h5>
-            </div>
-        <div class="col-sm-6 group-prof">
-            <img class="img-circle pull-left" src="images/group/alumni/huiwen.png" width="140" height="140">
-            <h3>Hui-Wen Shih</h3>
-            <h5 ><small>Education:</small> Ph.D. Princeton University</h5>
-            <h5 ><small>Current Position:</small> Gilead Sciences</h5>
-            <h5><small>Awards:</small> ACS BIOL Travel Awardee (2014)</h5>
-        </div>
-        <!-- /.col-lg-4 -->
-    </div>
     <div class="col-sm-12">
         <hr class="group-divider">
         <h1 >Former Graduate students</h1>
     </div>
-    <div class="row">
-        <div class="col-sm-6 group-prof">
-            <img class="img-circle pull-left" src="images/group/alumni/rachel.jpeg" width="140" height="140">
-            <h3>Rachel Steinhardt</h3>
-            <h5 ><small>Education:</small> Ph.D. 2015</h5>
-            <h5 ><small>Current Position:</small>Postdoc in Esser-Kahn Lab, UC Irvine</h5>
-        </div>
-        <!-- /.col-lg-4 -->
-        <div class="col-sm-6 group-prof">
-            <img class="img-circle pull-left" src="images/group/alumni/daveCrop.jpg" width="140" height="140">
-            <h3>Dave McCutcheon</h3>
-            <h5 ><small>Education:</small> Ph.D. 2015</h5>
-            <h5 ><small>Current Position:</small> Postdoc, ChEM-H Institute, Stanford University</h5>
-            <h5><small>Awards:</small> UCI Allergan Fellow, UCI Dissertation Fellowship (2015)</h5>
-        </div>
-        <!-- /.col-lg-4 -->
-    </div>
-
-    <div class="row">
-        <div class="col-sm-6 group-prof">
-            <img class="img-circle pull-left" src="images/group/alumni/kamber.jpeg" width="140" height="140">
-            <h3>Dave Kamber</h3>
-            <h5 ><small>Education:</small> Ph.D. 2015</h5>
-            <h5 ><small>Current Position:</small> Postdoc in Ellman Lab, Yale University</h5>
-            <h5><small>Awards:</small> ACS BIOL Travel Awardee (2014), Alfred R. Bader Award for Student Innovation (Sigma Aldrich, 2015), UCI Dissertation Fellowship (2015)</h5>
-        </div>
-        <!-- /.col-lg-4 -->
-        <div class="col-sm-6 group-prof">
-            <img class="img-circle pull-left" src="images/group/alumni/patters.jpeg" width="140" height="140">
-            <h3>Dave Patterson</h3>
-            <h5 ><small>Education:</small> Ph.D. 2015</h5>
-            <h5 ><small>Current Position:</small> Postdoc in Gartner Lab, UC San Francisco</h5>
-            <h5><small>Awards:</small> UCI Allergan Fellow</h5>
-        </div>
-        <!-- /.col-lg-4 -->
-    </div>
-
-    <div class="row">
-        <div class="col-sm-6 group-prof">
-            <img class="img-circle pull-left" src="images/group/alumni/lidiaCrop.jpg" width="140" height="140">
-            <h3>Lidia Nazarova</h3>
-            <h5 ><small>Education:</small> Ph.D. 2015</h5>
-            <h5 ><small>Current Position:</small> Illumina</h5>
-        </div>
-        <!-- /.col-lg-4 -->
-        <div class="col-sm-6 group-prof">
-            <img class="img-circle pull-left" src="images/group/alumni/miranda.jpeg" width="140" height="140">
-            <h3>Miranda Paley</h3>
-            <h5 ><small>Education:</small> Ph.D. 2014</h5>
-            <h5 ><small>Current Position:</small> Managing Editor, <em>ACS Central Science</em></h5>
-            <h5><small>Awards:</small> UCI Dissertation Fellowship (2014)</h5>
-        </div>
-        <!-- /.col-sm-6 -->
-    </div>
-    
-    <div class="row">
-        <div class="col-sm-6 group-prof">
-            <img class="img-circle pull-left" src="images/group/alumni/amanda.jpg" width="140" height="140">
-            <h3>Amanda Dark</h3>
-            <h5 ><small>Education:</small> M.S. 2015</h5>
-            <h5 ><small>Current Position:</small> Head Chemist, <em>The Shoulders of Giants</em> (Non-profit)</h5>
-        </div>
-    </div>
+    {% assign group_position = "former_graduate" %}
+        {% include member-info.html %}
     
     <div class="col-sm-12">
         <hr class="group-divider">
         <h1 >Former Undergraduates</h1>
     </div>
-    <div class="row">
-        <div class="col-sm-6 group-prof">
-            <img class="img-circle pull-left" src="images/group/alumni/brainCrop.jpg" width="140" height="140">
-            <h3>Brian Xie</h3>
-            <h5 ><small>Education:</small> B.S., Biology, UCI (2014)</h5>
-            <h5 ><small>Current Position:</small> Ph.D. student, Stanford University</h5>
-            <h5><small>Awards:</small> CRC Outstanding Freshman Chemistry Achievement Award (2011), Merck Award (2012), Allergan Summer Fellow (2011-2012), UCI SURP Fellow (2011-2013), Brian Atwood Scholarship in Biological Science (2013), Jayne Unzelman Scholarship (2014), UCI Chancellor’s Award of Distinction (2014)</h5>
-        </div>
-        <!-- /.col-lg-4 -->
-        <div class="col-sm-6 group-prof">
-            <img class="img-circle pull-left" src="images/group/alumni/jessica.jpeg" width="140" height="140">
-            <h3>Jessica O'Neill</h3>
-            <h5 ><small>Education:</small> B.S., Chemistry, UCI (2014)</h5>
-            <h5 ><small>Current Position:</small> Medicrea (Biotech Startup)</h5>
-            <h5><small>Awards:</small> UCI SURP Fellow (2012-2013)</h5>
-        </div>
-        <!-- /.col-lg-4 -->
-    </div>
-    <div class="row">
-        <div class="col-sm-6 group-prof">
-            <img class="img-circle pull-left" src="images/group/alumni/jeff.jpeg" width="140" height="140">
-            <h3>Jeffrey Briggs</h3>
-            <h5 ><small>Education:</small> B.S., Chemistry, UCI (2014)</h5>
-            <h5 ><small>Current Position:</small> Research Associate, Weiss Lab, UCI</h5>
-            <h5><small>Awards:</small> UCI SURP Fellow (2013-2014), Allergan Summer Fellow (2014)</h5>
-        </div>
-        <!-- /.col-lg-4 -->
-        <div class="col-sm-6 group-prof">
-            <img class="img-circle pull-left" src="images/group/placeholder.png" width="140" height="140">
-            <h3>Brittany Ripley</h3>
-            <h5 ><small>Education:</small> Southern Oregon University, OR (2013)</h5>
-            <h5 ><small>Current Position:</small> Ph.D. student, Washington lab, University of Iowa</h5>
-            <h5><small>Awards:</small> NSF-REU</h5>
-        </div>
-        <!-- /.col-lg-4 -->
-    </div>
-
-    <div class="row">
-        <div class="col-sm-6 group-prof">
-            <img class="img-circle pull-left" src="images/group/placeholder.png" width="140" height="140">
-            <h3>Greg Trieger</h3>
-            <h5 ><small>Education:</small> St. Mary's College, MD (2012)</h5>
-            <h5 ><small>Current Position:</small> Ph.D. student, Godula lab, UC San Diego</h5>
-            <h5><small>Awards:</small> NSF-REU</h5>
-        </div>
-        <!-- /.col-lg-4 -->
-        <div class="col-sm-6 group-prof">
-            <img class="img-circle pull-left" src="images/group/placeholder.png" width="140" height="140">
-            <h3>Srishti Prasad</h3>
-            <h5 ><small>Education:</small> B.S., Chemistry, UCI (2011)</h5>
-            <h5 ><small>Current Position:</small> DCN Diagnostics</h5>
-            <h5><small>Awards:</small> UCI SURP Fellow (2010-2011)</h5>
-        </div>
-        <!-- /.col-lg-4 -->
-    </div>
-    </div>
-    <div class="container footer">
-
-    </div>
-</body>
-
-</html>
+    {% assign group_position = "former_undergrad" %}
+        {% include member-info.html %}

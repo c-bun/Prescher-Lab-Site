@@ -1,98 +1,26 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-    <title>Prescher Lab - Support</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta charset="UTF-8">
-
-    <link rel="stylesheet" href="bootstrap.css">
-    <script src="jquery-1.12.1.min.js"></script>
-    <script src="bootstrap.js"></script>
-    <link rel="stylesheet" href="main.css">
-
-</head>
-
-<body>
-    <div class="header clearfix">
-        <nav>
-            <ul class="nav nav-pills pull-left">
-                <li role="presentation">
-                    <a href="home.html">Home</a>
-                </li>
-                <li role="presentation">
-                    <a href="research.html">Research</a>
-                </li>
-                <li role="presentation">
-                    <a href="publications.html">Publications</a>
-                </li>
-                <li class="dropdown">
-                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">The Group <span class="caret"></span></a>
-                    <ul class="dropdown-menu">
-                        <li><a href="the-group.html">Current Group</a></li>
-                        <li><a href="alumni.html">Group Alumni</a></li>
-                        <li><a href="photos.html">Photos</a></li>
-                    </ul>
-                </li>
-            </ul>
-            <ul class="nav nav-pills pull-right">
-                <li role="presentation" class="active">
-                    <a href="support.html">Support</a>
-                </li>
-            </ul>
-        </nav>
-    </div>
-
-    <div class="inner-jumbo">
-        <div class="jumbotron">
-            <div class="container">
-                <h1>Funding</h1>
-            </div>
-        </div>
-    </div>
-
-    <div class="container">
+---
+layout: inner_title
+title: Support
+navbar: right
+nav_order: 8
+---
+<div class="container">
         <h3 class="text-center">The Prescher lab gratefully acknowledges financial support from the following institutions and agencies:
 </h3>
     </div>
 
     <div class="container funding-sources">
         <div class="row">
-            <div class="col-xs-4">
-                <img class="img-responsive" src="funding/cancersoc.png">
+            {% for thing in site.static_files %}
+            {% if thing.path contains '/images/funding' %}
+            <div class="col-xs-6">
+                <img class="img-responsive center-block" src="{{ thing.path | prepend: site.baseurl }}" width="300" height="300">
             </div>
-            <div class="col-xs-4">
-                <img class="img-responsive" src="funding/uci.jpg">
-            </div>
-            <div class="col-xs-4">
-                <img class="img-responsive" src="funding/nsf.jpg">
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-xs-4">
-                <img class="img-responsive" src="funding/researchcorps.jpg">
-            </div>
-            <div class="col-xs-4">
-                <img class="img-responsive" src="funding/DreyfusLogo.gif">
-            </div>
-            <div class="col-xs-4">
-                <img class="img-responsive" src="funding/hellman.png">
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-xs-4">
-                <img class="img-responsive" src="funding/sloan.jpg">
-            </div>
-            <div class="col-xs-8">
-                <img class="img-responsive" src="funding/novartis.png">
-            </div>
+            {% endif %}
+            {% endfor %}
         </div>
     </div>
 
     <div class="container">
         <h3 class="text-center">Interested in supporting us? Check out our <a href="http://benefunder.org/causes/54/jennifer-prescher">Benefunder</a> page.</h3>
     </div>
-
-</body>
-
-</html>

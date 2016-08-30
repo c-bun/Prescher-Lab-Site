@@ -1,0 +1,24 @@
+<div class="col-sm-3 col-sm-offset-1 blog-sidebar">
+                <div class="sidebar-module">
+                    <h4>Archives</h4>
+                    <ol class="list-unstyled">
+                        
+                        {% for post in site.posts %}
+                            <li>
+                                <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                            </li>
+                        {% endfor %}
+                    </ol>
+                </div>
+                <div class="sidebar-module">
+                    <h4>Elsewhere</h4>
+                    <ol class="list-unstyled">
+                        <li><a href="http://benefunder.org/causes/54/jennifer-prescher" target="_blank">Our Benefunder</a></li>
+                        <li><a href="https://www.flickr.com/photos/140674789@N08/" target="_blank">Our Flickr photostream</a></li>
+                        <li><a href="https://www.chem.uci.edu/" target="_blank">UCI Chemistry</a></li>
+                        <li><a href="http://mbb.bio.uci.edu/" target="_blank">UCI MB&B</a></li>
+                        <li><a href="http://pharmsci.uci.edu/" target="_blank">UCI Pharm Sci</a></li>
+                        <li><a href="http://uci.edu/" target="_blank">UCI.edu</a></li>
+                    </ol>
+                </div>
+            </div>

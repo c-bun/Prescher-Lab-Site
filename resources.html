@@ -1,0 +1,28 @@
+---
+layout: inner_title
+title: Resources
+navbar: right
+nav_order: 7
+---
+<div class="container">
+        <h3>See below for data, code, or protocols cited in our publications: 
+</h3>
+    </div>
+
+<div class="container marketing">
+        <!-- START THE areaS -->
+        {% for thing in site.resources %}{% if thing.active == 'true' %}
+<div class="well area">
+        <div class="row">
+            <div class="col-sm-7">
+                <h2 class="area-heading">{{ thing.title }}<span class="text-muted"></span></h2>
+                <p class="lead">{{ thing.content }}</p>
+                {% if thing.download_file_name %}<a role="button" class="btn btn-success" href="/downloads/{{ thing.download_file_name }}">Download</a>{% endif %}
+            </div>
+            <div class="col-sm-5">
+                {% if thing.image_file_name %}<img class="area-image img-responsive center-block" src="downloads/{{ thing.image_file_name }}">{% endif %}
+            </div>
+        </div>
+        </div>
+        {% endif %}{% endfor %}
+</div>
