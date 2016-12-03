@@ -34,7 +34,7 @@ categories: group_update
 ---
 
 The rest of the file here...
-``` 
+```
 The only important thing to be updated is `title:`. Make sure that it reflects the correct year.
 
 #### Adding and formatting posts
@@ -42,7 +42,7 @@ Posts read from most recent month on top and earliest (January) on the bottom. M
 
 ```markdown
 #### August 2016
-- Jenn, Zi, and Dave demo'd some chemistry for the Los Angeles Rams!! [They're famous!](http://www.latimes.com/socal/daily-pilot/news/tn-dpt-me-0825-football-chemistry-20160824-story.html){:target="_blank"}
+- Jenn, Zi, and Dave demo'd some chemistry for the Los Angeles Rams!! [They're famous!](http://www.latimes.com/socal/daily-pilot/news/tn-dpt-me-0825-football-chemistry-20160824-story.html)
 - The lab went on a group trip to Carlsbad! Pics coming!
 - Joanna successfully defended her thesis! Congrats Dr. Laird!
 ```
@@ -53,7 +53,7 @@ Formatting in this way in markdown will compile to look like this:
 - The lab went on a group trip to Carlsbad! Pics coming!
 - Joanna successfully defended her thesis! Congrats Dr. Laird!
 
-A common thing to include in a post is a link to external content (as in the LA times article above). This is done by including the text to be highlighted in brackets, and then the link in parenthesis immediately following. I have also included ``{:target="_blank"}`` so that the link will open in a new tab in the users browser.
+A common thing to include in a post is a link to external content (as in the LA times article above). This is done by including the text to be highlighted in brackets, and then the link in parenthesis immediately following.
 
 Additionally text can be formatted with *italics* by ``*surrounding the text with asterisks*`` or text can be **bolded** ``**by using two asterisks**``.
 
@@ -71,10 +71,10 @@ To make sure that the changes that you have made look correct (before going live
 The compiled site lives in ``/Prescher_Lab_Website/_site``. The contents of this file will need to be transferred to the website FTP where they will be displayed on the web. Open **Fetch** on the computer, and click the bookmarked connection labeled ``Prescher_Lab_Site``. Before uploading the new files, copy the files from the ``public_html_current`` folder to the ``public_html_backup`` folder in case something ends up not working. Now copy and paste the contents of the ``_site`` folder to the ``public_html_current`` folder. When asked, be sure to "replace all" files that have the same name. Now close the connection and navigate to the site online to make sure that everything worked. Congrats! You're a webmaster!
 
 ## Updating the Current Group and Alumni pages
-When members inevitably join and leave the group, new profiles will have to be added and old ones will have to be moved to the alumni page. 
+When members inevitably join and leave the group, new profiles will have to be added and old ones will have to be moved to the alumni page.
 
 #### Group Member Info
-This information is stored in a ``.csv`` file in ``/Prescher_Lab_Website/_data/group.csv`` When a group member must be added, a new row can be used. Note the formatting used in the table entries, and make sure that the ``position`` column follows the previous ones exactly. 
+This information is stored in a ``.csv`` file in ``/Prescher_Lab_Website/_data/group.csv`` When a group member must be added, a new row can be used. Note the formatting used in the table entries, and make sure that the ``position`` column follows the previous ones exactly.
 
 #### Adding a picture
 To add a picture of a new member, obtain a high-resolution image from them or by taking a picture of them yourself. The dimensions of the image should be at least ``140 x 140 px``, the picture must be cropped around their head, square, and either a ``.jpg`` or ``.png``. These operations can be made using the **Preview** mac app. Place the image in ``/Prescher_Lab_Website/images/group`` and name the image ``lastname_firstname``, using the same spelling and capitalization as in the ``.csv`` entry.
@@ -84,10 +84,10 @@ To move a group member to the alumni page, simply add ``former_`` in front of th
 t forget to also add their current position!
 
 ## Updating the Publications
-Publications are handled in the same fashion as group members. Information is stored in a ``.csv`` file and TOC images are placed in ``/Prescher_Lab_Website/images/TOCs``. Follow the format for the publications that have already been entered.
+Publications are handled in the same fashion as group members. Information is stored in a ``.csv`` file and TOC images are placed in ``/Prescher_Lab_Website/images/TOCs``. The name of the TOC image included must simply be the number of the publication (as seen in the ``.csv`` file). Follow the format for the publications that have already been entered.
 
 ## Updating the Research Tab
 To edit the text in the **Research** tab of the site, simply make the desired changes to the files in the ``_research_intros`` folder and recompile the site. The text located on the home page of the site can also be found here.
 
-##Updating the Support Tab
+## Updating the Support Tab
 To add or remove funding sources, simply add or remove images (as ``.png``, ``.gif``, or ``.jpg`` files) from the ``/Prescher_Lab_Website/images/funding`` folder.
