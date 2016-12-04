@@ -5,7 +5,7 @@ categories: group_update
 ---
 #### December 2016
 - Krysten won 1st prize at the UCI Immunology Fair! Congrats, Krysten!
-- Sierra, Lance, and Tyler officially joined the lab! Welcome! Bios on the group page to come.
+- Sierra, Lance, and Tyler officially joined the lab! Welcome! Bios on [the group page](the-group.html)!
 - Jenn was interviewed for an article in Quanta Magazine. [Check it out!](https://www.quantamagazine.org/20161201-how-life-makes-light-bioluminescence/)
 
 #### November 2016
