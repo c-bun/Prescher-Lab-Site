@@ -1,8 +1,12 @@
 <div class="col-sm-3 col-sm-offset-1 blog-sidebar">
                 <div class="sidebar-module">
+                  <a class="twitter-timeline" href="https://twitter.com/jenn_prescher">
+                    Tweets by jenn_prescher
+                  </a>
+                  <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
                     <h4>Archives</h4>
                     <ol class="list-unstyled">
-                        
+
                         {% for post in site.posts %}
                             <li>
                                 <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
