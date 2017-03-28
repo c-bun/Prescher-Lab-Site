@@ -3,6 +3,11 @@ layout: post
 title:  "2017 News"
 categories: group_update
 ---
+#### March 2017
+- Undergraduate researchers Zane Long and Yusef Ibreighith join the lab. Welcome!
+- Zi was awarded an NSF GRFP fellowship! Congrats, Zi!
+- Krysten was featured in a summary article on the 2016 ICBS meeting in ACS Chemical Biology. [Read it here](http://pubs.acs.org/doi/abs/10.1021/acschembio.7b00205)!
+
 #### February 2017
 - Krysten successfully defended her thesis! She will be joining the Lewis group at the University of Chicago to complete her postdoctoral studies. Congratulations Dr. Jones! We wish you the best of luck!
 
