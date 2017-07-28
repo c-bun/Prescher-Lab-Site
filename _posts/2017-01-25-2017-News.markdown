@@ -3,6 +3,9 @@ layout: post
 title:  "2017 News"
 categories: group_update
 ---
+#### July 2017
+- Colin and Jenn's perspective on bioluminescent tools was published in ACS Biochemistry! [Read it here!](http://pubs.acs.org/doi/10.1021/acs.biochem.7b00435)
+
 #### June 2017
 - Our latest work on cyclopropenones was highlighted in ACS Chemical Biology. [Read it here!](http://pubs.acs.org/doi/pdf/10.1021/acschembio.7b00477)
 - Colin was awarded a graduate research fellowship from Allergan! Congratulations!
