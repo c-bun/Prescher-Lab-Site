@@ -17,7 +17,12 @@ nav_order: 7
             <div class="col-sm-7">
                 <h2 class="area-heading">{{ thing.title }}<span class="text-muted"></span></h2>
                 <p class="lead">{{ thing.content }}</p>
+<<<<<<< HEAD
                 {% if thing.download_file_name %}<a role="button" class="btn btn-success" href="/downloads/{{ thing.download_file_name }}">Download</a>{% endif %}
+=======
+                {% if thing.github %}<a role="button" class="btn btn-primary" href="{{ thing.github }}" target="_blank">{{ thing.title | append: " on GitHub" }}</a>{% endif %}
+                {% if thing.download_link %}<a role="button" class="btn btn-success" href="{{ thing.download_link }}" target="_blank">Download</a>{% endif %}
+>>>>>>> 0ce0e09... added cc4.0 and site to resources tab.
             </div>
             <div class="col-sm-5">
                 {% if thing.image_file_name %}<img class="area-image img-responsive center-block" src="downloads/{{ thing.image_file_name }}">{% endif %}
