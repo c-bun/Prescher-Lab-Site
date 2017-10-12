@@ -1,6 +1,6 @@
 # Site settings
 title: The Prescher Lab
-email: 
+email:
 description: > # this means to ignore newlines until "baseurl:"
   Crafting novel probes to spy on cells.
 baseurl: "/~jpresche" # the subpath of your site, e.g. /blog
@@ -15,4 +15,6 @@ collections:
     research_intros:
         output: true
     resources:
+        output: true
+    outreach:
         output: true

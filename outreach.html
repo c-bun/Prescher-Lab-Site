@@ -1,0 +1,33 @@
+---
+layout: inner_title
+title: Outreach
+navbar: right
+nav_order: 7
+---
+    <div class="well container mission-statement">
+        <p class="lead">
+            {% for item in site.outreach %}{% if item.title == "outreach intro" %}
+            <span>{{ item.bigger_subtext }}</span>{{ item.content }}
+            {% endif %}{% endfor %}
+        </p>
+        <iframe class="center-block" width="560" height="315" src="https://www.youtube.com/embed/z1sz0gsO9as" frameborder="0" allowfullscreen></iframe>
+    </div>
+    <div class="container marketing">
+        <!-- START THE areaS -->
+        {% for area in site.outreach %}{% if area.title != "outreach intro" %}
+<div class="well area">
+        <div class="row">
+            <div class="col-sm-7">
+                <h2 class="area-heading">{{ area.title }}<span class="text-muted"></span></h2>
+                <p class="lead">{{ area.content }}</p>
+            </div>
+            <div class="col-sm-5">
+                <img class="area-image img-responsive center-block" src="{{'/images/outreach_intros/' | prepend: site.baseurl | append:  area.image_file_name }}">
+            </div>
+        </div>
+        </div>
+        {% endif %}{% endfor %}
+</div>
+        <hr class="area-divider">
+
+        <!-- /END THE areaS -->
