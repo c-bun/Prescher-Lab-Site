@@ -3,6 +3,10 @@ layout: post
 title:  "2017 News"
 categories: group_update
 ---
+#### December 2017
+- Graduate student Carly Brennan and undergrads Paola and Danica officially join the lab. Welcome!
+- Our collaboration with Prof. Leconte SCA-guided mutagenesis was published in Biochemistry. [Check it out!](http://pubs.acs.org/doi/10.1021/acs.biochem.7b01014)
+
 #### November 2017
 - Colin, Will, Krysten, Marian, Monique, and Christine just published in ACS Central Science! [Read it here!](http://pubs.acs.org/doi/full/10.1021/acscentsci.7b00394)
 
