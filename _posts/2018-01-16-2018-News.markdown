@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "2018 News"
+categories: group_update
+---
+#### January 2018
+- Undergrads Nima, Zane, and Paola were awarded UROP fellowships for 2018. Congratulations!
+- MCP rotation student Kevin Ng joins the lab. Welcome!
