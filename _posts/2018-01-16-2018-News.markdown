@@ -3,7 +3,13 @@ layout: post
 title:  "2018 News"
 categories: group_update
 ---
+#### April 2018
+- Carly won an NSF GRFP honorable mention! Congrats!
+- Sierra was named an NSF GRFP fellow! Congratulations, Sierra!
+
 #### March 2018
+- Sean won best chemical biology/biochemistry oral presentation at the UC Chemical Symposium this year.
+- Kevin Ng officially joins the lab. Welcome!
 - Sean was awarded travel grants from both the ACS Biol Division and the AGS Division at UCI for the upcoming ACS National Meeting. Congrats!
 - Dave was awarded the Genentech Graduate Student Award. He will be presenting his research at the [Genentech Graduate Student Symposium in Chemical Research](https://www.gene.com/careers/university-and-early-career/graduate-student-symposium) in May. Congratulations Dave!
 
