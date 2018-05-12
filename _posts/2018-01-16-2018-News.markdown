@@ -3,14 +3,19 @@ layout: post
 title:  "2018 News"
 categories: group_update
 ---
+#### May 2018
+- Colin successfully defends his thesis! He will pursue his postdoctoral studies with Amy Palmer at the University of Colorado, Boulder. We will miss you Dr. Rathbun!
+- Dave was selected to present his research at the [ACS Division of Organic Chemistry Graduate Research Symposium](https://www.organicdivision.org/grs/). Keep crushing it Dave!
+- Our review on developing new bioorthogonal reactions was published in [Accounts of Chemical Research](https://pubs.acs.org/doi/10.1021/acs.accounts.7b00606). Congratulations Dave!
+
 #### April 2018
 - Our collaboration with the Thorpe lab on using Gaussia luciferase to monitor protein folding was published in [Protein Science](https://onlinelibrary.wiley.com/doi/abs/10.1002/pro.3433)!
-- Undergrad Kevin Jung and MB&B rotation student Jean-Louis Bru join the lab. Welcome!
+- Undergrad researcher Kevin Jung and MB&B rotation student Jean-Louis Bru join the lab. Welcome!
 - Carly won an NSF GRFP honorable mention! Congrats!
 - Sierra was named an NSF GRFP fellow! Congratulations, Sierra!
 
 #### March 2018
-- Sean won best chemical biology/biochemistry oral presentation at the UC Chemical Symposium this year.
+- Sean won best chemical biology/biochemistry oral presentation at the [UC Chemical Symposium](http://blogs.rsc.org/rscamericas/2018/05/03/2018-prize-winners-at-3rd-annual-uc-chemical-symposium/?doing_wp_cron=1525800265.6619451045989990234375) this year.
 - Kevin Ng officially joins the lab. Welcome!
 - Sean was awarded a travel grant from the ACS Biol Division for the upcoming ACS National Meeting in New Orleans. Congrats!
 - Dave was awarded the Genentech Graduate Student Award. He will be presenting his research at the [Genentech Graduate Student Symposium in Chemical Research](https://www.gene.com/careers/university-and-early-career/graduate-student-symposium) in May. Congratulations Dave!
@@ -21,7 +26,7 @@ categories: group_update
 - Zi was awarded an ACS Biol Division travel grant to attend the ACS National Meeting in New Orleans. Congratulations!
 
 #### January 2018
-- Colin was selected to present his work at the [Junior Scientist Workshop on Protein Engineering](https://www.janelia.org/you-janelia/conferences/junior-scientist-workshop-protein-engineering-making-and-using-tools-0) held on the Janelia Research Campus. Nicely done!
+- Colin was selected to present his work at the [Junior Scientist Workshop on Protein Engineering](https://www.janelia.org/you-janelia/conferences/junior-scientist-workshop-protein-engineering-making-and-using-tools-0) held at the Janelia Research Campus. Nicely done!
 - Jenn's introductory course to chemical biology was featured in the Educational and Outreach Projects from the Cottrell Scholars Collaborative Undergraduate and Graduate Education. [Check it out!](http://pubs.acs.org/doi/abs/10.1021/bk-2017-1248.ch003)
-- Undergrads Nima, Zane, and Paola were awarded UROP fellowships for 2018. Congratulations!
+- Undergrad researchers Nima, Zane, and Paola were awarded UROP fellowships for 2018. Congratulations!
 - MCP rotation student Kevin Ng joins the lab. Welcome!
