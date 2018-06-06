@@ -3,7 +3,14 @@ layout: post
 title:  "2018 News"
 categories: group_update
 ---
+#### June 2018
+- Our review on recent advances in bioluminescence imaging was published in [Current Opinion in Chemical Biology](https://www.sciencedirect.com/science/article/pii/S1367593118300097). Congratulations Zi and Brendan!
+- Marya Ornelas from Claremont Colleges joins the lab for the summer. Welcome!
+- Zach is onto bigger and better things, and accepted a research scientist position at UES in Dayton, OH! It was a pleasure working with you in the lab!
+
 #### May 2018
+- Undergraduate researcher Buvan Sathishkumar joins the lab. Welcome!
+- Colin was awarded the 2018 Edward K. C. Lee award, the highest honor awarded to a graduate student in the chemistry department at UCI. Congratulations Colin!
 - Colin successfully defends his thesis! He will pursue his postdoctoral studies with Amy Palmer at the University of Colorado, Boulder. We will miss you Dr. Rathbun!
 - Dave was selected to present his research at the [ACS Division of Organic Chemistry Graduate Research Symposium](https://www.organicdivision.org/grs/). Keep crushing it Dave!
 - Our review on developing new bioorthogonal reactions was published in [Accounts of Chemical Research](https://pubs.acs.org/doi/10.1021/acs.accounts.7b00606). Congratulations Dave!
