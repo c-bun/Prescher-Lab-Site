@@ -3,8 +3,13 @@ layout: post
 title:  "2018 News"
 categories: group_update
 ---
+#### September 2018
+- Dave's work on cyclopropenethiones was published in [Organic Letters](https://pubs.acs.org/doi/10.1021/acs.orglett.8b02296). Congrats Dr. Row!
+
 #### August 2018
-- Dave successfully defends his thesis! He will pursue his postdoctoral studies at Merck. Congratulations Dr. Row!
+- MB&B rotation student Julia DeRogatis joins the lab for the Fall Quarter. Welcome!
+- Brendan successfully defends his thesis. He has accepted a research scientist position at Akeagen. Congratulations Dr. Zhang!
+- Dave successfully defends his thesis! He will pursue his postdoctoral studies at Merck. We will miss you, Dr. Row!
 - Undergraduate researcher Sabrina Tran and rotation student Zach Engfer join the lab. Welcome!
 
 #### June 2018
