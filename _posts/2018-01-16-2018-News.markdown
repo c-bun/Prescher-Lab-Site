@@ -3,6 +3,12 @@ layout: post
 title:  "2018 News"
 categories: group_update
 ---
+#### December 2018
+- First year students Mariana Navarro and Robby Dorn officially join the lab. Welcome!
+
+#### November 2018
+- Undergraduate researcher Elena Helm joins the lab. Welcome!
+
 #### September 2018
 - MCP rotation students Maj Krumberger and Diana Carreno join the lab for the fall quarter. Welcome!
 - Undergraduate researcher Danika Ferguson joins the lab. Welcome!
