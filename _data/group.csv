@@ -1,5 +1,5 @@
 first,last,position,hometown,education,hero,awards,current_position
-Colin,Rathbun,former_graduate,"Grand Rapids, MI","B.S., Chemistry, Hope College; Ph.D. 2018",Nicola Tesla,NSF Graduate Research Fellow (2012-2017) : Allergan Graduate Research Fellow (2017) : Edward K. C. Lee Awardee (2018),"Postdoc, Palmer Lab, University of Colorado, Boulder"
+Colin,Rathbun,former_graduate,"Grand Rapids, MI","B.S., Chemistry, Hope College; Ph.D. 2018",Nicola Tesla,NSF Graduate Research Fellow (2012-2017) : Allergan Graduate Research Fellow (2017) : Edward K. C. Lee Awardee (2018),"NIH Postdoctoral Fellow, Palmer Lab, University of Colorado, Boulder"
 Zach,Reinert,former_postdoc,"North East, MD","B.S., Biochemistry, University of Maryland, Baltimore County; Ph.D., Chemistry, University of Pittsburgh",Albert Einstein,George Hewitt Medical Research Postdoctoral Fellow (2017) : ACS Young Chemists Committee Travel Award (2017),"Research Scientist, UES (Dayton)"
 David,Row,former_graduate,"Berwick, PA","B.S., Biochemistry, Western Washington University; Ph.D. 2018",Ronald Breslow,"NSF Graduate Research Honorable Mention (2015) : Michael E. Gebel Award (UCI, 2015) : NSF Graduate Research Fellow (2016) : Genentech Graduate Student Research Awardee (2018)","Postdoc, Merck"
 Sean,Nguyen,graduate,"Saugus, MA","B.S., Chemical Biology, UC Berkeley",Tu Youyou,NSF Graduate Research Honorable Mention (2016) : ACS BIOL Travel Awardee (2018),
@@ -17,9 +17,9 @@ Hui-Wen,Shih,former_postdoc,,Ph.D. Princeton University,,ACS BIOL Travel Awardee
 Rachel,Steinhardt,former_graduate,,Ph.D. 2015,,,"Assistant Professor, Syracuse University"
 Dave,McCutcheon,former_graduate,,Ph.D. 2015,,"UCI Allergan Fellow, UCI Dissertation Fellowship (2015)","Postdoc, ChEM-H Institute, Stanford University"
 Dave,Kamber,former_graduate,,Ph.D. 2015,,"ACS BIOL Travel Awardee (2014) : Alfred R. Bader Award for Student Innovation (Sigma Aldrich, 2015) : UCI Dissertation Fellowship (2015)","Visiting Chemistry Teacher-Scholar Fellow, The College of New Jersey (TCNJ)"
-Dave,Patterson,former_graduate,,Ph.D. 2015,,UCI Allergan Fellow,"Postdoc, Gartner Lab, UC San Francisco"
+Dave,Patterson,former_graduate,,Ph.D. 2015,,UCI Allergan Fellow,"NIH Postdoctoral Fellow, Gartner Lab, UC San Francisco"
 Lidia,Nazarova,former_graduate,,Ph.D. 2015,,,Illumina
-Miranda,Paley,former_graduate,,Ph.D. 2014,,UCI Dissertation Fellowship (2014),"Managing Editor, ACS Central Science"
+Miranda,Paley,former_graduate,,Ph.D. 2014,,UCI Dissertation Fellowship (2014),"AAAS Science and Technology Fellow, Department of Defense"
 Amanda,Dark,former_graduate,,M.S. 2015,,,"Head Chemist, The Shoulders of Giants (Non-profit)"
 Brian,Xie,former_undergrad,,"B.S., Biology, UC Irvine (2014)",,CRC Outstanding Freshman Chemistry Achievement Award (2011) : Merck Award (2012) : Allergan Summer Fellow (2011-2012) : UCI SURP Fellow (2011-2013) : Brian Atwood Scholarship in Biological Science (2013) : Jayne Unzelman Scholarship (2014) : UCI Chancellor's Award of Distinction (2014),"Ph.D. student, Stanford University"
 Jessica,O'Neill,former_undergrad,,"B.S., Chemistry, UC Irvine (2014)",,UCI SURP Fellow (2012-2013),Medicrea (Biotech Startup)
@@ -37,14 +37,14 @@ Anna,Love,graduate,"Canton, OH","B.S., Biochemistry, Messiah College",General Gr
 Anastasia,Ionkina,graduate,"Kazan, Russia","B.S., Molecular, Cellular and Developmental Biology, University of Colorado, Boulder","Rosalind Franklin, Neil deGrasse Tyson",,
 Sydnei,Head,former_undergrad,,"B.S., Chemistry, Albany State University",,UC-HBCU Initiative Fellow (2017),
 Jennifer,Sun,former_undergrad,,University High School,,,
-Nima,Singh,undergrad,"Sacramento, CA","B.S., Neurobiology",My Dad,UROP Fellow (2018-2019) : UROP Summer Fellowship (2018) : Allergan Summer Fellow (2018),
+Nima,Singh,undergrad,"Sacramento, CA","B.S., Neurobiology",My Dad,UROP Fellow (2018-2019) : UROP Summer Fellowship (2018) : Allergan Summer Fellow (2018) : UROP Fellow (2019-2020),
 Paola,Santibanez,former_undergrad,"Huancayo, Peru","B.S., Chemistry",,UROP Fellow (2018-2019),
 Carly,Brennan,graduate,"Simi Valley, CA","B.S., Chemistry, USC",Marie Curie,NSF Graduate Research Honorable Mention (2018),
-Danica,Resurreccion,undergrad,"Bulacan, Philippines","B.S., Public Health Sciences",Zach Reinert,UROP Summer Fellowship (2018) : Allergan Summer Fellow (2018),
+Danica,Resurreccion,undergrad,"Bulacan, Philippines","B.S., Public Health Sciences",Zach Reinert,UROP Summer Fellowship (2018) : Allergan Summer Fellow (2018) : UROP Fellow (2019-2020),
 Drew,Ferreira,postdoc,"San Bruno, CA","A.B., Chemistry, UC Davis; Ph.D., Chemistry, Oregon State University",Richard Feynman,George Hewitt Medical Research Postdoctoral Fellow (2018),
 Kevin,Ng,graduate,"Walnut, CA","B.S., Biochemistry and Cell Biology, UC San Diego; M.S., Biology, UC San Diego",Stephen Hawking,,
 Buvan,Sathishkumar,undergrad,"Las Vegas, NV","B.S., Chemistry, UC Irvine",Marie Curie,,
-Sabrina,Tran,undergrad,"Aliso Viejo, CA","B.S., Biological Sciences",Sven Seldinger,,
+Sabrina,Tran,undergrad,"Aliso Viejo, CA","B.S., Biological Sciences",Sven Seldinger,UROP Fellow (2019-2020),
 Kevin,Jung,former_undergrad,"Seoul, Korea","B.S., Chemistry, UC Irvine (2018)",Alexander Flemming,,
 Danika,Ferguson,former_undergrad,"San Mateo, CA","B.S., Biological Sciences",Katharine McCormick,,
 Elena,Helm,undergrad,"San Clemente, CA","B.S., Chemistry (Chemical Biology Concentration)",Dorothy Hodgkin,,
