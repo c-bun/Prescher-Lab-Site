@@ -3,5 +3,8 @@ layout: post
 title:  "2019 News"
 categories: group_update
 ---
+#### February 2019
+- Professor Amanda Murphy from Western Washington University joins the lab for her sabbatical. Welcome!
+
 #### January 2019
-- Undergrads Sabrina, Nima, and Danica are starting the new year strong. Each were awarded UROP Fellowships!
+- Undergrads Sabrina, Nima, Danica, and Buvan are starting the new year strong. Each were awarded UROP Fellowships for their research projects!
