@@ -3,6 +3,9 @@ layout: post
 title:  "2019 News"
 categories: group_update
 ---
+#### August 2019
+- Our work on developing compatible bioorthogonal reactions using triazines was published at [Chemical Science](https://pubs.rsc.org/en/content/articlelanding/2019/sc/c9sc01427f#!divAbstract). Congrats team bioorthogonal!
+
 #### June 2019
 - Undergrad Elena was awarded an Allergan Summer Research Fellowship. Way to go!
 - Zi was awarded an outstanding poster award at the inaugural [GALA of Chemical Biology](http://www-bcf.usc.edu/~mattherp/gala.html). Congrats!
