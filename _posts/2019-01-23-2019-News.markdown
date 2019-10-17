@@ -4,6 +4,7 @@ title:  "2019 News"
 categories: group_update
 ---
 #### October 2019
+- Our methodology for synthesizing butenolides from cyclopropenones was accepted into [Organic Letters](https://pubs.acs.org/doi/10.1021/acs.orglett.9b03298)! Congrats team bioorthogonal!
 - Undergraduate researchers Jenny Hoang, Landon Taylor, and Jonathan Tchan join the lab. Welcome!
 - Our latest review on bioluminescence imaging was accepted to [Accounts of Chemical Research](https://pubs.acs.org/doi/10.1021/acs.accounts.9b00391). Congrats Sierra!
 
