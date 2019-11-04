@@ -3,6 +3,9 @@ layout: post
 title:  "2019 News"
 categories: group_update
 ---
+#### November 2019
+- Sean was awarded an Allergan Graduate Research Fellowship! Congrats!
+
 #### October 2019
 - Our methodology for synthesizing butenolides from cyclopropenones was accepted into [Organic Letters](https://pubs.acs.org/doi/10.1021/acs.orglett.9b03298)! Keep up the good work, team bioorthogonal!
 - Undergraduate researchers Jenny Hoang, Landon Taylor, and Jonathan Tchan join the lab. Welcome!
