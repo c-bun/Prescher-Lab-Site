@@ -1,0 +1,2 @@
+I"�<p>“Cross Compare” is a python script that we use to find orthogonal compound/enzyme pairs for our bioluminescent imaging projects. It takes as input a .csv file with mutant and compound light emission values and outputs a .csv file with potential pairings ranked by orthogonality. See <a href="http://pubs.acs.org/doi/full/10.1021/acscentsci.7b00394">this link</a> for our publication on this work.</p>
+:ET
