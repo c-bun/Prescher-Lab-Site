@@ -4,9 +4,14 @@ title:  "2020 News"
 categories: group_update
 ---
 
+#### August 2020
+- Our work on developing a crosslinking strategy featuring cyclopropenones was published at [Chemical Communications](https://pubs.rsc.org/en/content/articlelanding/2020/cc/d0cc04600k#!divAbstract). Congratulations team bioorthogonal!
+- Our latest review on advances in bioluminescence technology was published at [Cell Chemical Biology](https://www.sciencedirect.com/science/article/abs/pii/S2451945620302956). Congrats Anna!
+
+
 #### July 2020
 - Our latest review on bioorthogonal probes was accepted to [Nature Reviews Chemistry](https://www.nature.com/articles/s41570-020-0205-0). Congrats Sean!
-- Drew starts his position as a lecturer at UCI. Congrats! 
+- Drew starts his position as a lecturer at UCI. Congrats!
 
 #### May 2020
 - Elena  accepted a position in the Skowronska-Krawczyk lab at UCI. She will be venturing into some lipidomics work.  Congrats!
