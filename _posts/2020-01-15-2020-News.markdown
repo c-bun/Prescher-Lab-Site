@@ -7,6 +7,7 @@ categories: group_update
 #### August 2020
 - Our work on developing a crosslinking strategy featuring cyclopropenones was published at [Chemical Communications](https://pubs.rsc.org/en/content/articlelanding/2020/cc/d0cc04600k#!divAbstract). Congratulations team bioorthogonal!
 - Our latest review on advances in bioluminescence technology was published at [Cell Chemical Biology](https://www.sciencedirect.com/science/article/abs/pii/S2451945620302956). Congrats Anna!
+- Our work on developing pi-extended luciferins was published in [JACS](https://pubs.acs.org/doi/10.1021/jacs.0c01064). Congrats Zi (and alumni Rachel and Brendan)!
 
 
 #### July 2020
