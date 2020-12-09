@@ -3,7 +3,11 @@ layout: post
 title:  "2020 News"
 categories: group_update
 ---
+#### December 2020
+- Sean successfully defends his thesis. He has accepted a position at Beyond Meat. Congratulations Dr. Nguyen!  
+
 #### September 2020
+- Carly was selected as a UCI School of Physical Sciences Data Science Fellow. Congrats!  
 - Alicia was selected to receive a fellowship from the Hewitt Foundation. Congratulations!
 - Sean was the recipient of the 2020 Harold W. Moore award. Congrats!
 
