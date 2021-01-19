@@ -4,7 +4,7 @@
 /* Dashes are above so that this page is processed by the Jekyll templator */
 /* TODO: Add mobile-responsive nav bar so that 'support' button does not go on to next line
 .nav {
-    
+
 }
 */
 @media only screen and (max-width: 400px) {
@@ -70,7 +70,7 @@
 }
 
 .blog-body {
-    margin-left: 20px;
+    position: relative;
 }
 
 
@@ -144,7 +144,7 @@
 
 .group-prof img{
     position: relative;
-    top: 15px;   
+    top: 15px;
 }
 
 .jenn-prof h5{
