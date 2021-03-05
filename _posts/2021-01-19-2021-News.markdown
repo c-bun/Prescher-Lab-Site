@@ -3,6 +3,9 @@ layout: post
 title:  "2021 News"
 categories: group_update
 ---
+#### February 2021
+- Our work on developing disubstituted luciferins as orthogonal imaging tools was published in [Biochemistry](https://pubs.acs.org/doi/10.1021/acs.biochem.0c00894#.YDQYQ8G3IAQ.twitter). Congrats Sierra!
+
 #### January 2021
 - Pharm Sci rotation student Lila Halbers joins the lab for the winter quarter. Welcome!
-- Our latest collaborative work was published in [Cell](https://www.cell.com/cell/pdf/S0092-8674(20)31612-3.pdf). Congrats! 
+- Our latest collaborative work was published in [Cell](https://www.cell.com/cell/pdf/S0092-8674(20)31612-3.pdf). Congrats!
