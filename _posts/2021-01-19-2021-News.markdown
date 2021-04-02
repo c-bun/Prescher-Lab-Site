@@ -3,6 +3,13 @@ layout: post
 title:  "2021 News"
 categories: group_update
 ---
+
+#### March 2021
+- Undergraduate alumna Elena Helm will be attending graduate school at NYU. Congratulations! 
+- Lila Halbers officially joins the lab! Welcome!
+- Our report of a rapid, multicomponent imaging platform was published in [ACS Chemical Biology](https://pubs.acs.org/doi/full/10.1021/acschembio.0c00959). Congrats!
+- Kat won an NSF GRFP honorable mention! Congrats, Kat!  
+
 #### February 2021
 - Our work on developing disubstituted luciferins as orthogonal imaging tools was published in [Biochemistry](https://pubs.acs.org/doi/10.1021/acs.biochem.0c00894#.YDQYQ8G3IAQ.twitter). Congrats Sierra!
 
