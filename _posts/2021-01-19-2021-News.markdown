@@ -4,8 +4,11 @@ title:  "2021 News"
 categories: group_update
 ---
 
+#### April 2021
+- Jenn and Sean contributed to a [Nature Reviews Methods Primer](https://www.nature.com/articles/s43586-021-00028-z) on bioorthogonal chemistry. Check it out! 
+
 #### March 2021
-- Undergraduate researcher Landon Taylor has accepted Boston College's offer of admission to graduate school! Congrats Landon! 
+- Undergraduate researcher Landon Taylor has accepted Boston College's offer of admission to graduate school! Congrats Landon!
 - Undergraduate alumna Elena Helm will be attending graduate school at NYU. Congratulations!
 - Lila Halbers officially joins the lab! Welcome!
 - Our report of a rapid, multicomponent imaging platform was published in [ACS Chemical Biology](https://pubs.acs.org/doi/full/10.1021/acschembio.0c00959). Congrats!
@@ -13,6 +16,7 @@ categories: group_update
 
 #### February 2021
 - Our work on developing disubstituted luciferins as orthogonal imaging tools was published in [Biochemistry](https://pubs.acs.org/doi/10.1021/acs.biochem.0c00894#.YDQYQ8G3IAQ.twitter). Congrats Sierra!
+- Zi was awarded a Dissertation Fellowship. Congratulations!
 
 #### January 2021
 - Pharm Sci rotation student Lila Halbers joins the lab for the winter quarter. Welcome!

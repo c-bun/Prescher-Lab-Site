@@ -1,4 +1,4 @@
-I"�(<h2 id="updating-the-prescher-lab-site">Updating the Prescher Lab site</h2>
+I"�+<h2 id="updating-the-prescher-lab-site">Updating the Prescher Lab site</h2>
 
 <h4 id="general-resources-for-the-tools-required-in-order-of-importance">General resources for the tools required (in order of importance):</h4>
 <ul>
@@ -12,18 +12,18 @@
 <p>The Prescher lab site is hand-written in HTML using the <a href="http://getbootstrap.com/">Bootstrap</a> CSS/Javascript package. This gives the site a nice, minimal look and makes things moderately mobile-responsive. In February of 2016 the site was built written with bootstrap and the html was updated manually until August. With the thought of making the site updateable for a non code inclined person, the site was wrapped in the Jekyll framework that uses a templating engine for routine updates. Thus, only a set of easily readable files (eg text, .csv, folders of images) needs to be kept up to date for the site to also be up to date.</p>
 
 <h4 id="location-of-source-filesgeneral-workflow">Location of source files/general workflow</h4>
-<p>The site lives in a folder on the desktop of the group computer labeled <code class="highlighter-rouge">Prescher_Lab_Website</code>. In the folder will be a series of folders and HTML files. To update the site, these files will need to be edited to reflect the desired changes, the site will need to be compiled using Jekyll (via command line), and the files will need to be uploaded to the web via FTP (with the Fetch app).</p>
+<p>The site lives in a folder on the desktop of the group computer labeled <code class="language-plaintext highlighter-rouge">Prescher_Lab_Website</code>. In the folder will be a series of folders and HTML files. To update the site, these files will need to be edited to reflect the desired changes, the site will need to be compiled using Jekyll (via command line), and the files will need to be uploaded to the web via FTP (with the Fetch app).</p>
 
 <h2 id="updating-lab-newsevents">Updating Lab News/Events</h2>
 <p>This is the most common change that will have to occur for the site. Updates are written in the Markdown language (see above) in files organized by year.</p>
 
 <h4 id="post-location">Post Location</h4>
-<p>In the <code class="highlighter-rouge">Prescher_Lab_Website</code> folder is another file called <code class="highlighter-rouge">_posts</code>. This file contains a post for each year of lab news. For each new year, a new file will be created with the naming convention <code class="highlighter-rouge">year-month-day-year-News.md</code>. Double click on the file that you desire to update, or create a new one if necessary. These files are edited in MacDown, a lightweight markdown editor.</p>
+<p>In the <code class="language-plaintext highlighter-rouge">Prescher_Lab_Website</code> folder is another file called <code class="language-plaintext highlighter-rouge">_posts</code>. This file contains a post for each year of lab news. For each new year, a new file will be created with the naming convention <code class="language-plaintext highlighter-rouge">year-month-day-year-News.md</code>. Double click on the file that you desire to update, or create a new one if necessary. These files are edited in MacDown, a lightweight markdown editor.</p>
 
 <h4 id="post-headers">Post Headers</h4>
 <p>Each post must begin with a header to tell the Jekyll engine how to template the file. Here’s an example header from 2016:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>---
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>---
 layout: post
 title:  "2016 News"
 categories: group_update
@@ -31,10 +31,10 @@ categories: group_update
 
 The rest of the file here...
 </code></pre></div></div>
-<p>The only important thing to be updated is <code class="highlighter-rouge">title:</code>. Make sure that it reflects the correct year.</p>
+<p>The only important thing to be updated is <code class="language-plaintext highlighter-rouge">title:</code>. Make sure that it reflects the correct year.</p>
 
 <h4 id="adding-and-formatting-posts">Adding and formatting posts</h4>
-<p>Posts read from most recent month on top and earliest (January) on the bottom. Month headers are denoted with four number signs (<code class="highlighter-rouge">####</code>) followed by the title. Different events within the month are denoted by a new line followed by a hyphen, followed by a space. Here’s another excerpt from the 2016 post:</p>
+<p>Posts read from most recent month on top and earliest (January) on the bottom. Month headers are denoted with four number signs (<code class="language-plaintext highlighter-rouge">####</code>) followed by the title. Different events within the month are denoted by a new line followed by a hyphen, followed by a space. Here’s another excerpt from the 2016 post:</p>
 
 <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="gu">#### August 2016</span>
 <span class="p">-</span> Jenn, Zi, and Dave demo'd some chemistry for the Los Angeles Rams!! <span class="p">[</span><span class="nv">They're famous!</span><span class="p">](</span><span class="sx">http://www.latimes.com/socal/daily-pilot/news/tn-dpt-me-0825-football-chemistry-20160824-story.html</span><span class="p">)</span>
@@ -54,40 +54,40 @@ The rest of the file here...
 
 <p>A common thing to include in a post is a link to external content (as in the LA times article above). This is done by including the text to be highlighted in brackets, and then the link in parenthesis immediately following.</p>
 
-<p>Additionally text can be formatted with <em>italics</em> by <code class="highlighter-rouge">*surrounding the text with asterisks*</code> or text can be <strong>bolded</strong> <code class="highlighter-rouge">**by using two asterisks**</code>.</p>
+<p>Additionally text can be formatted with <em>italics</em> by <code class="language-plaintext highlighter-rouge">*surrounding the text with asterisks*</code> or text can be <strong>bolded</strong> <code class="language-plaintext highlighter-rouge">**by using two asterisks**</code>.</p>
 
 <h4 id="recompiling-the-site">Recompiling the site</h4>
 <p>Once the markdown file has been edited to your liking and saved, the site must be compiled with Jekyll. This means that Jekyll will read through the files that you have changed and convert them to HTML so that they look pretty and are readable by web browsers.</p>
 
-<p>Open the <strong>Terminal</strong> app and navigate to the root of the <code class="highlighter-rouge">Prescher_Lab_Website</code> folder. If the folder is on the desktop, you should type something like this:
-<code class="highlighter-rouge">cd ~/Desktop/Prescher_Lab_Website</code> and press “enter”.</p>
+<p>Open the <strong>Terminal</strong> app and navigate to the root of the <code class="language-plaintext highlighter-rouge">Prescher_Lab_Website</code> folder. If the folder is on the desktop, you should type something like this:
+<code class="language-plaintext highlighter-rouge">cd ~/Desktop/Prescher_Lab_Website</code> and press “enter”.</p>
 
-<p>Now type <code class="highlighter-rouge">jekyll build</code> to recompile the site.</p>
+<p>Now type <code class="language-plaintext highlighter-rouge">jekyll build</code> to recompile the site.</p>
 
-<p>To make sure that the changes that you have made look correct (before going live), type <code class="highlighter-rouge">jekyll serve</code> into the command line, and copy and paste the <code class="highlighter-rouge">Server address:</code> that is displayed in the command window to <strong>Google Chrome</strong> on the mac. It might look something like this: <code class="highlighter-rouge">http://127.0.0.1:4000/~jpresche/</code>. Test out the site to make sure that your updates have been made.</p>
+<p>To make sure that the changes that you have made look correct (before going live), type <code class="language-plaintext highlighter-rouge">jekyll serve</code> into the command line, and copy and paste the <code class="language-plaintext highlighter-rouge">Server address:</code> that is displayed in the command window to <strong>Google Chrome</strong> on the mac. It might look something like this: <code class="language-plaintext highlighter-rouge">http://127.0.0.1:4000/~jpresche/</code>. Test out the site to make sure that your updates have been made.</p>
 
 <h4 id="uploading-the-updated-site-files">Uploading the updated site files</h4>
-<p>The compiled site lives in <code class="highlighter-rouge">/Prescher_Lab_Website/_site</code>. The contents of this file will need to be transferred to the website FTP where they will be displayed on the web. Open <strong>Fetch</strong> on the computer, and click the bookmarked connection labeled <code class="highlighter-rouge">Prescher_Lab_Site</code>. Before uploading the new files, copy the files from the <code class="highlighter-rouge">public_html_current</code> folder to the <code class="highlighter-rouge">public_html_backup</code> folder in case something ends up not working. Now copy and paste the contents of the <code class="highlighter-rouge">_site</code> folder to the <code class="highlighter-rouge">public_html_current</code> folder. When asked, be sure to “replace all” files that have the same name. Now close the connection and navigate to the site online to make sure that everything worked. Congrats! You’re a webmaster!</p>
+<p>The compiled site lives in <code class="language-plaintext highlighter-rouge">/Prescher_Lab_Website/_site</code>. The contents of this file will need to be transferred to the website FTP where they will be displayed on the web. Open <strong>Fetch</strong> on the computer, and click the bookmarked connection labeled <code class="language-plaintext highlighter-rouge">Prescher_Lab_Site</code>. Before uploading the new files, copy the files from the <code class="language-plaintext highlighter-rouge">public_html_current</code> folder to the <code class="language-plaintext highlighter-rouge">public_html_backup</code> folder in case something ends up not working. Now copy and paste the contents of the <code class="language-plaintext highlighter-rouge">_site</code> folder to the <code class="language-plaintext highlighter-rouge">public_html_current</code> folder. When asked, be sure to “replace all” files that have the same name. Now close the connection and navigate to the site online to make sure that everything worked. Congrats! You’re a webmaster!</p>
 
 <h2 id="updating-the-current-group-and-alumni-pages">Updating the Current Group and Alumni pages</h2>
 <p>When members inevitably join and leave the group, new profiles will have to be added and old ones will have to be moved to the alumni page.</p>
 
 <h4 id="group-member-info">Group Member Info</h4>
-<p>This information is stored in a <code class="highlighter-rouge">.csv</code> file in <code class="highlighter-rouge">/Prescher_Lab_Website/_data/group.csv</code> When a group member must be added, a new row can be used. Note the formatting used in the table entries, and make sure that the <code class="highlighter-rouge">position</code> column follows the previous ones exactly.</p>
+<p>This information is stored in a <code class="language-plaintext highlighter-rouge">.csv</code> file in <code class="language-plaintext highlighter-rouge">/Prescher_Lab_Website/_data/group.csv</code> When a group member must be added, a new row can be used. Note the formatting used in the table entries, and make sure that the <code class="language-plaintext highlighter-rouge">position</code> column follows the previous ones exactly.</p>
 
 <h4 id="adding-a-picture">Adding a picture</h4>
-<p>To add a picture of a new member, obtain a high-resolution image from them or by taking a picture of them yourself. The dimensions of the image should be at least <code class="highlighter-rouge">140 x 140 px</code>, the picture must be cropped around their head, square, and either a <code class="highlighter-rouge">.jpg</code> or <code class="highlighter-rouge">.png</code>. These operations can be made using the <strong>Preview</strong> mac app. Place the image in <code class="highlighter-rouge">/Prescher_Lab_Website/images/group</code> and name the image <code class="highlighter-rouge">lastname_firstname</code>, using the same spelling and capitalization as in the <code class="highlighter-rouge">.csv</code> entry.</p>
+<p>To add a picture of a new member, obtain a high-resolution image from them or by taking a picture of them yourself. The dimensions of the image should be at least <code class="language-plaintext highlighter-rouge">140 x 140 px</code>, the picture must be cropped around their head, square, and either a <code class="language-plaintext highlighter-rouge">.jpg</code> or <code class="language-plaintext highlighter-rouge">.png</code>. These operations can be made using the <strong>Preview</strong> mac app. Place the image in <code class="language-plaintext highlighter-rouge">/Prescher_Lab_Website/images/group</code> and name the image <code class="language-plaintext highlighter-rouge">lastname_firstname</code>, using the same spelling and capitalization as in the <code class="language-plaintext highlighter-rouge">.csv</code> entry.</p>
 
 <h4 id="moving-a-profile-to-the-alumni-page">Moving a profile to the alumni page</h4>
-<p>To move a group member to the alumni page, simply add <code class="highlighter-rouge">former_</code> in front of their position. Don
+<p>To move a group member to the alumni page, simply add <code class="language-plaintext highlighter-rouge">former_</code> in front of their position. Don
 t forget to also add their current position!</p>
 
 <h2 id="updating-the-publications">Updating the Publications</h2>
-<p>Publications are handled in the same fashion as group members. Information is stored in a <code class="highlighter-rouge">.csv</code> file and TOC images are placed in <code class="highlighter-rouge">/Prescher_Lab_Website/images/TOCs</code>. The name of the TOC image included must simply be the number of the publication (as seen in the <code class="highlighter-rouge">.csv</code> file). Follow the format for the publications that have already been entered.</p>
+<p>Publications are handled in the same fashion as group members. Information is stored in a <code class="language-plaintext highlighter-rouge">.csv</code> file and TOC images are placed in <code class="language-plaintext highlighter-rouge">/Prescher_Lab_Website/images/TOCs</code>. The name of the TOC image included must simply be the number of the publication (as seen in the <code class="language-plaintext highlighter-rouge">.csv</code> file). Follow the format for the publications that have already been entered.</p>
 
 <h2 id="updating-the-research-tab">Updating the Research Tab</h2>
-<p>To edit the text in the <strong>Research</strong> tab of the site, simply make the desired changes to the files in the <code class="highlighter-rouge">_research_intros</code> folder and recompile the site. The text located on the home page of the site can also be found here.</p>
+<p>To edit the text in the <strong>Research</strong> tab of the site, simply make the desired changes to the files in the <code class="language-plaintext highlighter-rouge">_research_intros</code> folder and recompile the site. The text located on the home page of the site can also be found here.</p>
 
 <h2 id="updating-the-support-tab">Updating the Support Tab</h2>
-<p>To add or remove funding sources, simply add or remove images (as <code class="highlighter-rouge">.png</code>, <code class="highlighter-rouge">.gif</code>, or <code class="highlighter-rouge">.jpg</code> files) from the <code class="highlighter-rouge">/Prescher_Lab_Website/images/funding</code> folder.</p>
+<p>To add or remove funding sources, simply add or remove images (as <code class="language-plaintext highlighter-rouge">.png</code>, <code class="language-plaintext highlighter-rouge">.gif</code>, or <code class="language-plaintext highlighter-rouge">.jpg</code> files) from the <code class="language-plaintext highlighter-rouge">/Prescher_Lab_Website/images/funding</code> folder.</p>
 :ET
