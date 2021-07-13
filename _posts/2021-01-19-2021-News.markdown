@@ -4,8 +4,23 @@ title:  "2021 News"
 categories: group_update
 ---
 
+#### June 2021
+- Sierra defends her thesis! She will be starting her independent career as an Assistant Professor of Chemistry at the Claremont Colleges. Congrats Prof. Dr. Williams, we will miss you!
+- Zi defends his thesis! He will be conducting his postdoctoral studies in Jim Wells' lab at UC San Francisco. Congratulations Dr. Yao!
+- Our latest preprint on multicomponent bioluminescence imaging via phasor imaging has been posted in [BioRxiv](https://www.biorxiv.org/content/10.1101/2021.06.18.448905v1). Congrats everyone!
+- Our work on characterizing naphthylamino luciferins for multicomponent imaging was published in [ChemBioChem](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202100202). Congrats Carly!
+- Our latest work on developing a caged small molecule for control of gene expression is now online in [ChemBioChem](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cbic.202100158). Congratulations Anna and Sabrina!
+- Our review on bioorthogonal reactions with triarylphosphines was published in [Chemical Reviews](https://pubs.acs.org/doi/10.1021/acs.chemrev.1c00014). Congrats Tyler and Robby!
+
+#### May 2021
+- Our latest work on developing coumarin luciferins for multicomponent imaging is online at [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/60c7586cbdbb8967b7a3ad6c). Congratulations everyone!
+- Our transcriptome analysis of a metastatic breast cancer model has been posted on [BioRxiv](https://www.biorxiv.org/content/10.1101/2021.05.04.442511v1). Congrats!
+- Zi was awarded the 2021 Edward K. C. Lee award, the highest honor awarded to a graduate student in the chemistry department at UCI. Congratulations!
+- Sierra was awarded the Graduate Award for Departmental Mentorship Award and the Jacqueline Smitrovich Prize. Congrats Sierra!
+- Anna and Anastasia were selected for a Dean's Dissertation Fellowship! Congrats!
+
 #### April 2021
-- Jenn and Sean contributed to a [Nature Reviews Methods Primer](https://www.nature.com/articles/s43586-021-00028-z) on bioorthogonal chemistry. Check it out! 
+- Jenn and Sean contributed to a [Nature Reviews Methods Primer](https://www.nature.com/articles/s43586-021-00028-z) on bioorthogonal chemistry. Check it out!
 
 #### March 2021
 - Undergraduate researcher Landon Taylor has accepted Boston College's offer of admission to graduate school! Congrats Landon!
