@@ -3,6 +3,8 @@ layout: post
 title:  "2021 News"
 categories: group_update
 ---
+#### August 2021
+- Congrats to Carly! She was selected to present at the next Graduate Research Symposium, sponsored by the ACS Division of Organic Chemistry.
 
 #### July 2021
 - Our collaborative work on longitudinal imaging of infection has been posted on [BioRxiv](https://www.biorxiv.org/content/10.1101/2021.08.17.456698v1). Congrats!
@@ -41,3 +43,4 @@ categories: group_update
 #### January 2021
 - Pharm Sci rotation student Lila Halbers joins the lab for the winter quarter. Welcome!
 - Our latest collaborative work was published in [Cell](https://www.cell.com/cell/pdf/S0092-8674(20)31612-3.pdf). Congrats!
+- Jenn was selected as a Paul Allen Distinguished Investigator. Congrats!
