@@ -3,6 +3,17 @@ layout: post
 title:  "2021 News"
 categories: group_update
 ---
+#### November 2021
+- Congrats to Kevin! Our work on a bioluminescent sensor for rapid detection of a C. Diff protease was published in [Sensors](https://www.mdpi.com/1424-8220/21/22/7485).
+- Tyler defends his thesis! He will be conducting his postdoctoral studies in Tarun Kapoor's lab at The Rockefeller University. Congratulations Dr. Heiss!
+- Anna defends her thesis! She will be conducting her postdoctoral studies in Brad Moore's lab at Scripps Oceanography. Congratulations Dr. Love!
+- Anastasia defends her thesis! Congratulations Dr. Ionkina!
+
+#### September 2021
+- Undergraduate researcher Dylan Tran joins the lab. Welcome!
+- MB&B rotation student Courtney Knitter joins the lab for the fall quarter. Welcome!
+- Our latest work on examining the transcriptomes of metastatic breast cancer cells is online at [Breast Cancer Research](https://breast-cancer-research.biomedcentral.com/articles/10.1186/s13058-021-01468-x). Congratulations to Anastasia and our collaborators in the Mortazavi Lab!
+
 #### August 2021
 - Congrats to Carly! She was selected to present at the next Graduate Research Symposium, sponsored by the ACS Division of Organic Chemistry.
 
