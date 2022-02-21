@@ -3,6 +3,13 @@ layout: post
 title:  "2021 News"
 categories: group_update
 ---
+#### February 2022
+- Congratulations to Alicia! She accepted a Research Scientist position with AltPep in Seattle.
+- Congrats to undergraduate alum Steve Phan! He selected UCI for medical school this Fall.
+
+#### January 2022
+- Yeonseong (Catherine) Seo, Erin Fuller, and Tanya Hadjian officially joins the lab! Welcome!
+
 #### November 2021
 - Congrats to Kevin! Our work on a bioluminescent sensor for rapid detection of a C. Diff protease was published in [Sensors](https://www.mdpi.com/1424-8220/21/22/7485).
 - Tyler defends his thesis! He will be conducting his postdoctoral studies in Tarun Kapoor's lab at The Rockefeller University. Congratulations Dr. Heiss!
