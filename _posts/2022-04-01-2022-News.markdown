@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  "2021 News"
+title:  "2022 News"
 categories: group_update
 ---
 #### March 2022
-- Lab alum Sierra Williams was selected as a "30 Under 30" awardee from Temple U. Congrats Sierra!
-- Congratulations to Tyler/Robby/Drew/Anna, their manuscript on fluorogenic CpOs was accepted at JACS!
+- Lab alum Sierra Williams was selected as a ["30 Under 30"](https://30under30.temple.edu/2022-award-recipients/research-and-technology-innovator-sierra-williams) Research and Technology Innovators awardee from Temple University. Congrats Sierra!
 - Lila was selected as a Vertex Fellow from PharmSci! Congrats!
-- Hearty congrats to Kevin! His proposal ("Smartphone detection of bioluminescent phasors for point-of-care diagnosis") was selected for a Beall Innovation Award!
+- Hearty congrats to Jenn and Kevin! Their proposal was selected for a Beall Innovation Award!
 
 #### February 2022
 - Congratulations to Mariana! She was selected for an ACS Bridge travel award.
