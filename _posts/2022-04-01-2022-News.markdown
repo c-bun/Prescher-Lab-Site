@@ -5,6 +5,7 @@ categories: group_update
 ---
 #### June 2022
 - Our work with the Digman Lab on combining bioluminescent probes and spectral phasor analysis overcoming long-standing challenges associated with bioluminescence detection is now published in [Nature Methods](https://www.nature.com/articles/s41592-022-01529-9). Congrats Carly, Zi, Lorenzo, and Kevin! 
+
 #### May 2022
 - Congrats to lab alum Sean Nguyen! He accepted a new position in the US FDA's field lab.
 - Congratulations to Suha! She was selected for an Allergan summer research fellowship.
