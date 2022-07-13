@@ -4,12 +4,13 @@ title:  "2022 News"
 categories: group_update
 ---
 #### June 2022
+- Our work with the Lupták and Steward Lab on developing a method for bioluminescent RNA tracking that circumvents issues associated with fluorescent probes can now be viewed on [BioRxiv](https://www.biorxiv.org/content/10.1101/2022.07.02.498144v1). Congrats Kevin and Lila!
 - Our work with the Digman Lab on combining bioluminescent probes and spectral phasor analysis overcoming long-standing challenges associated with bioluminescence detection is now published in [Nature Methods](https://www.nature.com/articles/s41592-022-01529-9). Congrats Carly, Zi, Lorenzo, and Kevin!
 
 #### May 2022
 - Congrats to lab alum Sean Nguyen! He accepted a new position in the US FDA's field lab.
 - Congratulations to Suha! She was selected for an Allergan summer research fellowship.
-- Carly defends her thesis! She will be conducting her postdoctoral work at Pfizer in Groton, Connecticut.
+- Carly defended her thesis! She will be conducting her postdoctoral work at Pfizer in Groton, Connecticut.
  Congratulations Dr. Brennan!
  - Congratulations to Lila! She was selected for the Protein Society Annual Symposium travel award.
 
@@ -22,7 +23,7 @@ categories: group_update
 - Lab alum Sierra Williams was selected as a ["30 Under 30"](https://30under30.temple.edu/2022-award-recipients/research-and-technology-innovator-sierra-williams) Research and Technology Innovators awardee from Temple University. Congrats Sierra!
 - Lila was selected as a Vertex Fellow from PharmSci! Congrats!
 - Hearty congrats to Jenn and Kevin! Their proposal was selected for a Beall Innovation Award!
-- Julia Balsamo officially joins the lab! Welcome! 
+- Graduate student Julia Balsamo officially joins the lab! Welcome!
 
 #### February 2022
 - Congratulations to Mariana! She was selected for an ACS Bridge travel award and a UCI AGS travel award.
@@ -30,4 +31,4 @@ categories: group_update
 - Congrats to undergraduate alum Steve Phan! He selected UCI for medical school this Fall.
 
 #### January 2022
-- Yeonseong (Catherine) Seo, Erin Fuller, and Tanya Hadjian officially joins the lab! Welcome!
+- Yeonseong (Catherine) Seo, Erin Fuller, and Tanya Hadjian officially join the lab! Welcome!
