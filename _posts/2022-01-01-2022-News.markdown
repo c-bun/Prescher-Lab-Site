@@ -3,8 +3,12 @@ layout: post
 title:  "2022 News"
 categories: group_update
 ---
+#### July 2022
+- Happy 12th birthday to the lab!
+
 #### June 2022
 - Our work with the Lupták and Steward Lab on developing a method for bioluminescent RNA tracking that circumvents issues associated with fluorescent probes can now be viewed on [BioRxiv](https://www.biorxiv.org/content/10.1101/2022.07.02.498144v1). Congrats Kevin and Lila!
+- Congrats to Suha! She was awarded summer research funding from the Undergraduate Research Opportunities Program here at UCI!
 - Our work with the Digman Lab on combining bioluminescent probes and spectral phasor analysis overcoming long-standing challenges associated with bioluminescence detection is now published in [Nature Methods](https://www.nature.com/articles/s41592-022-01529-9). Congrats Carly, Zi, Lorenzo, and Kevin!
 
 #### May 2022
