@@ -3,8 +3,15 @@ layout: post
 title:  "2022 News"
 categories: group_update
 ---
+#### October 2022
+- A special congrats to Carolyn Bertozzi on being awarded the Nobel Prize in Chemistry! Fun fact: Jenn researched under Carolyn while getting her Ph.D. at UC Berkeley. A picture she helped collect as a graduate student was used in the live announcement. Long live bioorthogonal chemistry!
+
 #### September 2022
-- Congrats to Kevin! His manuscript was accepted at Bioconjugate Chemistry. More updates soon!
+- Congrats to lab alumni Carly, Zi, Anastasia, Colin, and Buvan! Their paper on multi-component imaging was accepted at Cell Chemical Biology.
+- Kevin defended his thesis! He will be working at the start-up company NovaGlia.
+ Congratulations Dr. Ng!
+- Jenn was selected for the Arthur C. Cope Scholar Award by ACS! A huge congrats and thank you to all lab members (both past and present) for all of your contributions to the group's efforts!
+- Congrats to Kevin! His manuscript on LOTIIS was accepted at Bioconjugate Chemistry. More updates soon!
 - The lab went on a whale watching trip! Check out the [photos](https://www.flickr.com/photos/194141943@N06).
 
 #### August 2022
