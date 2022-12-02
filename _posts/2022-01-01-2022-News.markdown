@@ -3,7 +3,17 @@ layout: post
 title:  "2022 News"
 categories: group_update
 ---
+#### December 2022
+- Congrats to Kat! She was selected for a medical writing internship at Gilead.
+
+#### November 2022
+- Our paper on multiplexed bioluminescence imaging with a substrate unmixing platform is now published in [Cell Chemical Biology](https://www.sciencedirect.com/science/article/pii/S2451945622003580). Congrats to lab alumni Carly, Zi, Anastasia, and Colin!
+- Our collaborative paper on longitudinal monitoring of individual infection progression in Drosophila melanogaster with the Wunderlich lab can now be viewed in [iScience](https://www.sciencedirect.com/science/article/pii/S2589004222016509#!). Congrats to lab alumna Anna!
+- Congrats to Lila and our collaborators in the Lupták and Steward labs! Their symposium proposal on dynamic RNA imaging was accepted for presentation at this spring's upcoming International Conference on Learning and Memory.
+
 #### October 2022
+- Robby's perspective piece on bioorthogonal phosphines was accepted at Israel Journal of Chemistry as part of a themed issue in honor of Carolyn Bertozzi's Wolf prize. Congrats Robby!
+- Our collaborative paper with the Wang lab on macromolecular assembly of bioluminescent protein nanoparticles for enhanced imaging can now be viewed in [Materials Today Bio](https://www.sciencedirect.com/science/article/pii/S2590006422002538)! Congrats to lab alumni Carly and Anastasia!
 - A special congrats to Carolyn Bertozzi on being awarded the Nobel Prize in Chemistry! Fun fact: Jenn researched under Carolyn while getting her Ph.D. at UC Berkeley. A picture she helped collect as a graduate student was used in the live announcement. Long live bioorthogonal chemistry!
 
 #### September 2022
