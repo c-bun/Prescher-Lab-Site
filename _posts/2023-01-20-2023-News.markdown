@@ -3,21 +3,20 @@ layout: post
 title:  "2023 News"
 categories: group_update
 ---
+#### March 2023
+- Congrats to lab alumn Colin Rathbum! He recieved a near-perfect score on his first NIH R15 application as a professor.
+- Congrats to lab alumn Dave Row! Previously a senior scientist in protein engineering at Merck, he just accepted a new position with Aliada Therapeutics in Boston to work on drug delivery into the brain.
+- Congrats to lab alumna Anna Love! She was awarded an NIH fellowship for her postdoctoral work in the Moore lab at Scripps!
+
+#### February 2023
+- Congrats to lab alumn Brendan Zhang! He took a new position at Thermo Fisher working on LNP delivery platforms.
+- Congrats to Kat, Robby, and our collaborators in the Potma lab! Our manuscript on enhancing alkyne-based Raman tags can now be viewed in [Journal of Physical Chemistry B](https://pubs.acs.org/doi/10.1021/acs.jpcb.2c09093).
+- Congrats to Anna, Kat, Lila, Tanya, alumni Carly and Zi, and our collaborators in the Schernmann and Mills labs! Our work on red-shifted coumarin luciferins can now be viewed [online](https://pubs.acs.org/doi/10.1021/jacs.2c07220)!
+
 #### January 2023
+- Graduate student Halley Lin-Jones officially joins the lab! Welcome!
 - The lab went on a group outing to the bowling alley to celebrate the new year! Check out the [photos](https://www.flickr.com/photos/194141943@N06).
 - Pharm Sci rotation student Omar Ocegueda joins the lab for the winter quarter. Welcome!
-- Congrats to lab alumn Zi! He was awarded an NIH postdoctoral fellowship for his work in the Wells lab at UCSF!
+- Congrats to lab alumn Zi! He was awarded an NIH postdoctoral fellowship for his work in the Wells lab at UCSF, and he was also selected for LSRF funding!
 - Congrats to Anna, Kat, Lila, Tanya, alumni Carly and Zi, and our collaborators in the Schernmann and Mills labs! Our work on red-shifted coumarin luciferins was accepted at JACS. More updates to come!
-- Congrats to lab alumna Sierra and our collaborators in the Leconte group! Their work on improved analyses for orthogonal bioluminescent tools was accepted at ChemBioChem. Check it out [here](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202200726in)!
-
-#### December 2022
-- Happy holidays! We celebrated with a fun holiday [group dinner](https://www.flickr.com/photos/194141943@N06).
-- Congrats to Tanvi and Jules! They both were selected to receive UROP funding for their research projects!
-- Jenn attended the Nobel festivities in Stockholm, Sweden to celebrate and honor Carolyn's Nobel Prize! Check out these awesome [photos](https://www.flickr.com/photos/194141943@N06).
-- Robby's perspective piece on bioorthogonal phosphines is now out in print. Check it out in the [Israel Journal of Chemistry](https://onlinelibrary.wiley.com/doi/full/10.1002/ijch.202200070).
-- Congrats to Kat! She was selected for a medical writing internship at Gilead.
-
-#### November 2022
-- Our paper on multiplexed bioluminescence imaging with a substrate unmixing platform is now published in [Cell Chemical Biology](https://www.sciencedirect.com/science/article/pii/S2451945622003580). Congrats to lab alumni Carly, Zi, Anastasia, and Colin!
-- Our collaborative paper on longitudinal monitoring of individual infection progression in Drosophila melanogaster with the Wunderlich lab can now be viewed in [iScience](https://www.sciencedirect.com/science/article/pii/S2589004222016509#!). Congrats to lab alumna Anna!
-- Congrats to Lila and our collaborators in the Lupták and Steward labs! Their symposium proposal on dynamic RNA imaging was accepted for presentation at this spring's upcoming International Conference on Learning and Memory.
+- Congrats to lab alumna Sierra and our collaborators in the Leconte group! Their work on improved analyses for orthogonal bioluminescent tools was accepted at ChemBioChem. Check it out [here](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202200726)!
