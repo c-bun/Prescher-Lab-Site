@@ -3,6 +3,9 @@ layout: post
 title:  "2023 News"
 categories: group_update
 ---
+#### April 2023
+- Welcome to Nicola, a visiting scholar from the Wagenknecht group in Germany! 
+
 #### March 2023
 - Congrats to lab alumn Colin Rathbum! He recieved a near-perfect score on his first NIH R15 application as a professor.
 - Congrats to lab alumn Dave Row! Previously a senior scientist in protein engineering at Merck, he just accepted a new position with Aliada Therapeutics in Boston to work on drug delivery into the brain.
